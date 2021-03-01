@@ -1,0 +1,39 @@
+@font-face {
+  src: url(Lato-Font/Lato-Regular.ttf);
+  font-family: "lato";
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: lato;
+  text-align: center;
+  background-color: rgb(20, 153, 153);
+  color: white;
+  font-size: 25px;
+}
+nav {
+  background-color: rgb(7, 136, 136);
+}
+nav h3 {
+  font-style: normal;
+}
+.navBar {
+  display: inline-block;
+  width: 130px;
+  height: 40px;
+  text-align: center;
+}
+a {
+  color: goldenrod;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+em {
+  font-style: normal;
+}
