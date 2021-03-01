@@ -1,6 +1,6 @@
 @font-face {
-  src: url(fonts/Ubuntu-Medium.ttf);
-  font-family: ube;
+  src: url(Lato-Font/Lato-Regular.ttf);
+  font-family: "lato";
 }
 
 * {
@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: ube;
+  font-family: lato;
   text-align: center;
   background-color: rgb(20, 153, 153);
   color: white;
